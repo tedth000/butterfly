@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/butterfly">
+        <file>up.PNG</file>
+        <file>down.PNG</file>
+    </qresource>
+</RCC>
